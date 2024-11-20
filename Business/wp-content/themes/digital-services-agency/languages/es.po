@@ -1,0 +1,818 @@
+# Copyright (C) 2024 Creta Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital Services Agency 2.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/digital-services-"
+"agency\n"
+"POT-Creation-Date: 2024-10-25T16:04:46+05:30\n"
+"PO-Revision-Date: 2024-10-25 16:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: digital-services-agency\n"
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:11
+msgid "Digital Services Agency"
+msgstr "Digital Services Agency"
+
+#. Theme URI of the theme
+#: style.css
+msgid ""
+"https://www.cretathemes.com/products/free-digital-agency-wordpress-theme"
+msgstr ""
+"https://www.cretathemes.com/products/free-digital-agency-wordpress-theme"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Digital Services Agency is a versatile and powerful WordPress theme "
+"specifically designed for digital agencies, creative professionals, digital "
+"marketing agencies, creative agencies, SEO experts, PPC management, "
+"accounting firms, freelance services, digital marketing specialists, online "
+"marketers, digital strategy consultants, social media marketers, content "
+"creators, digital service providers, search engine optimization, pay-per-"
+"click advertising, digital consultants, marketing agencies, business "
+"analysts, online advertising agencies, digital branding, web development "
+"agenciesseo agencies, ppc specialist, accountants, freelancers, marketers "
+"and businesses offering digital services. It can be used by digital services "
+"agencies to create a stunning online presence to showcase their services. "
+"The theme comes with a sleek and modern design and provides a stunning "
+"platform to showcase your agency’s portfolio, highlight your services, and "
+"attract potential clients. This theme is user-friendly and comes with "
+"several customization options to give your website a unique and personalized "
+"look. It offers a robust theme options panel that allows you to easily "
+"modify the theme’s appearance, layout, and functionality without any coding "
+"knowledge. The theme provides pre-built page templates that are specifically "
+"tailored to digital agencies. These templates include sections for "
+"showcasing your team members, portfolio projects, client testimonials, "
+"pricing plans, and more. With just a few clicks, you can import these "
+"templates and have a professionally designed website up and running in no "
+"time. The Digital Services Agency theme is fully responsive and mobile-"
+"friendly, ensuring that your website looks great and functions seamlessly on "
+"all devices, from desktop computers to smartphones and tablets. To enhance "
+"the functionality of your website, the theme also integrates seamlessly with "
+"popular WordPress plugins. You can easily add features such as contact "
+"forms, social media sharing buttons, sliders, and even e-commerce "
+"functionality to sell your digital services directly from your website."
+msgstr ""
+"Digital Services Agency es un tema de WordPress versátil y poderoso. "
+"específicamente diseñado para agencias digitales, profesionales creativos, digitales. "
+"agencias de marketing, agencias creativas, expertos en SEO, gestión de PPC,"
+"firmas contables, servicios freelance, especialistas en marketing digital, "
+"marketers en línea, consultores de estrategia digital, marketers de redes sociales, contenido."
+"creadores, proveedores de servicios digitales, optimización para motores de búsqueda, "
+" publicidad de pago por clic, consultores digitales, agencias de marketing, analistas de negocios, "
+"agencias de publicidad en línea, branding digital, "
+"agencias de desarrollo web, agencias de SEO, especialistas en PPC, contadores, freelancers, marketers "
+"y empresas que ofrecen servicios digitales. Puede ser utilizado por servicios digitales. "
+"agencias para crear una impresionante presencia en línea para mostrar sus servicios. "
+"El tema viene con un diseño elegante y moderno y proporciona una plataforma impresionante "
+"para exhibir el portafolio de tu agencia, resaltar tus servicios y atraer a posibles clientes. "
+"Este tema es fácil de usar y cuenta con varias "
+"opciones de personalización para darle a tu sitio web un aspecto único y personalizado. "
+"Ofrece un panel de opciones robusto que te permite gestionar fácilmente "
+"modificar la apariencia, el diseño y la funcionalidad del tema sin necesidad de "
+"conocimientos de codificación. El tema proporciona plantillas de página predefinidas que están  específicamente "
+"diseñadas para agencias digitales. Estas plantillas incluyen secciones para "
+"mostrar a los miembros de tu equipo, proyectos del portafolio, testimonios de clientes, "
+"planes de precios y más. Con solo unos pocos clics, puedes importar estas "
+"plantillas y tener un sitio web diseñado de forma profesional en muy poco tiempo. "
+"El tema Digital Services Agency es completamente responsivo y compatible con dispositivos móviles, "
+"asegurando que tu sitio web se vea genial y funcione sin problemas en todos los dispositivos, "
+"desde computadoras de escritorio hasta teléfonos inteligentes y tabletas. "
+"Para mejorar la funcionalidad de tu sitio web, el tema también se integra "
+"a la perfección con los plugins populares de WordPress. Puedes añadir fácilmente funciones como formularios de contacto,"
+"botones para compartir en redes sociales, deslizadores e incluso funcionalidades de comercio electrónico "
+"para vender tus servicios digitales directamente desde tu sitio web. "
+
+#. Author of the theme
+#: style.css
+msgid "Creta Themes"
+msgstr "Creta Themes"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://cretathemes.com/"
+msgstr "https://cretathemes.com/"
+
+#: functions.php:54
+msgid "https://www.cretathemes.com/products/digital-services-wordpress-theme"
+msgstr "https://www.cretathemes.com/products/digital-services-wordpress-theme"
+
+#: functions.php:55
+msgid "https://pattern.cretathemes.com/digital-services-agency/"
+msgstr "https://pattern.cretathemes.com/digital-services-agency/"
+
+#: functions.php:56
+msgid "https://pattern.cretathemes.com/free-guide/digital-services-agency/"
+msgstr "https://pattern.cretathemes.com/free-guide/digital-services-agency/"
+
+#: functions.php:57
+msgid "https://pattern.cretathemes.com/pro-guide/digital-services-agency-pro/"
+msgstr "https://pattern.cretathemes.com/pro-guide/digital-services-agency-pro/"
+
+#: functions.php:58
+msgid "https://wordpress.org/support/theme/digital-services-agency"
+msgstr "https://wordpress.org/support/theme/digital-services-agency"
+
+#: functions.php:59
+msgid ""
+"https://wordpress.org/support/theme/digital-services-agency/reviews/#new-post"
+msgstr ""
+"https://wordpress.org/support/theme/digital-services-agency/reviews/#new-post"
+
+#: functions.php:97
+msgid "Hey, Thank you for installing Digital Services Agency Theme!"
+msgstr "¡Hola, gracias por instalar el tema Digital Services Agency!"
+
+#: functions.php:98
+msgid "Navigate Getstart"
+msgstr "Navegar Comenzar"
+
+#: functions.php:98 inc/get-started/get-started.php:58
+msgid "Site Editor"
+msgstr "Editor del sitio"
+
+#: functions.php:99
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: inc/block-patterns.php:12
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/block-styles.php:17
+msgid "No Padding"
+msgstr "Sin Espaciado"
+
+#: inc/block-styles.php:26 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:63 inc/block-styles.php:73 inc/block-styles.php:82
+msgid "Theme Style"
+msgstr "Estilo del Tema"
+
+#: inc/block-styles.php:35
+msgid "Plain"
+msgstr "Simple"
+
+#: inc/customizer.php:84
+msgid "Digital Services Agency Pro"
+msgstr "Digital Services Agency Pro"
+
+#: inc/customizer.php:85
+msgid "GET PRO"
+msgstr "OBTENER PRO"
+
+#: inc/get-started/get-started.php:4
+msgid "Get Started"
+msgstr "Comenzar"
+
+#: inc/get-started/get-started.php:22
+msgid "Free Full Site Editing WordPress Theme"
+msgstr "Tema de WordPress de Edición Completa Gratuito"
+
+#: inc/get-started/get-started.php:24
+msgid "Theme Documentation"
+msgstr "Documentación del Tema"
+
+#: inc/get-started/get-started.php:39
+msgid "Leave Us A Review"
+msgstr "Déjanos una Reseña"
+
+#: inc/get-started/get-started.php:40
+msgid "Are you enjoying our theme? We would love to hear your feedback."
+msgstr "¿Estás disfrutando de nuestro tema? Nos encantaría escuchar tus comentarios."
+
+#: inc/get-started/get-started.php:42
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: inc/get-started/get-started.php:47
+msgid "Need Help?"
+msgstr "¿Necesitas Ayuda?"
+
+#: inc/get-started/get-started.php:48
+msgid "Go to our support forum to help you out in case of queries."
+msgstr "Ve a nuestro foro de soporte para ayudarte en caso de dudas."
+
+#: inc/get-started/get-started.php:50
+msgid "Get Support"
+msgstr "Obtener Soporte"
+
+#: inc/get-started/get-started.php:55
+msgid "Theme Customization"
+msgstr "Personalización del Tema"
+
+#: inc/get-started/get-started.php:56
+msgid "Effortlessly modify and maintain your site using editor."
+msgstr "Modifica y mantén tu sitio sin esfuerzo utilizando el editor."
+
+#: inc/get-started/get-started.php:66
+msgid "Go For Premium"
+msgstr "Opta por Premium"
+
+#: inc/get-started/get-started.php:67
+msgid "Are you exited for our theme? Proceed for pro version of theme."
+msgstr "¿Estás emocionado por nuestro tema? Procede a la versión pro del tema."
+
+#: inc/get-started/get-started.php:69
+msgid "Pro Documentation"
+msgstr "Documentación Pro"
+
+#: inc/get-started/get-started.php:70
+msgid "Buy Pro"
+msgstr "Comprar Pro"
+
+#: inc/get-started/get-started.php:71
+msgid "Pro Demo"
+msgstr "Demo Pro"
+
+#: inc/get-started/get-started.php:74
+msgid "Responsive Design"
+msgstr "Diseño Responsivo"
+
+#: inc/get-started/get-started.php:75
+msgid "Demo Content Import"
+msgstr "Importación de Contenido de Demostración"
+
+#: inc/get-started/get-started.php:76
+msgid "Aditional plugins"
+msgstr "Plugins Adicionales"
+
+#: inc/get-started/get-started.php:77
+msgid "Background sliders"
+msgstr "Deslizadores de Fondo"
+
+#: inc/get-started/get-started.php:78
+msgid "Video popups"
+msgstr "Ventanas emergentes de video"
+
+#: inc/get-started/get-started.php:79
+msgid "More Fonts and Colors"
+msgstr "Más Fuentes y Colores"
+
+#: inc/get-started/get-started.php:80
+msgid "Multiple templates"
+msgstr "Múltiples plantillas"
+
+#: inc/get-started/get-started.php:81
+msgid "Multiple front page sections"
+msgstr "Múltiples secciones en la página de inicio"
+
+#: inc/get-started/get-started.php:82
+msgid "Woocommerce support"
+msgstr "Soporte para Woocommerce"
+
+#: inc/get-started/get-started.php:83
+msgid "Premium support"
+msgstr "Soporte Premium"
+
+#: inc/get-started/get-started.php:84
+msgid "SEO optimization"
+msgstr "Optimización SEO"
+
+#: inc/get-started/get-started.php:85
+msgid "Speed optimization"
+msgstr "Optimización de Velocidad"
+
+#: inc/get-started/get-started.php:86
+msgid "Browser compatibility"
+msgstr "Compatibilidad con Navegadores"
+
+#: inc/icon-function.php:26
+msgid "Please define default parameters in the form of an array."
+msgstr "Por favor, define los parámetros predeterminados en forma de array."
+
+#: inc/icon-function.php:31
+msgid "Please define an SVG icon filename."
+msgstr "Por favor, define un nombre de archivo para el ícono SVG."
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr "Página 404"
+
+#: patterns/404.php:12
+msgid "Oops! That page cannot be found"
+msgstr "¡Ups! No se puede encontrar esa página"
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr "Encabezado de Archivo Con Fondo"
+
+#: patterns/footer-columns.php
+msgctxt "Pattern title"
+msgid "Footer Columns"
+msgstr "Columnas del Pie de Página"
+
+#: patterns/footer-columns.php:19 patterns/main-banner.php:18
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, "
+"when an unknown printer took a galley of type and scrambled it to make a "
+"type specimen book."
+msgstr ""
+"Lorem Ipsum ha sido el texto de marcador de posición estándar de la industria desde el siglo XVI, "
+"cuando un impresor desconocido tomó una galera de tipos y la desordenó para hacer un "
+"libro de muestras tipográficas."
+
+#: patterns/footer-columns.php:36
+msgid "Shop"
+msgstr "Tienda"
+
+#: patterns/footer-columns.php:56
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+#: patterns/footer-columns.php:76
+msgid "Get In Touch"
+msgstr "Ponte en Contacto"
+
+#: patterns/footer-columns.php:85
+msgid "support@example.com"
+msgstr "support@example.com"
+
+#: patterns/footer-columns.php:105
+msgid "Mon - Fri 8:00 AM to 5:00 PM SUNDAY -"
+msgstr "Lun - Vie 8:00 AM a 5:00 PM DOMINGO -"
+
+#: patterns/footer-columns.php:105
+msgid "CLOSED"
+msgstr "CERRADO"
+
+#: patterns/footer-columns.php:118
+msgid "FSE Agency"
+msgstr "FSE Agency"
+
+#: patterns/footer-columns.php:118
+msgid "All Rights Reserved."
+msgstr "Todos los Derechos Reservados."
+
+#: patterns/main-banner.php
+msgctxt "Pattern title"
+msgid "Header Media"
+msgstr "Medios del encabezado"
+
+#: patterns/main-banner.php:14
+msgid "We"
+msgstr "Nosotros"
+
+#: patterns/main-banner.php:14
+msgid "re Experienced Marketing"
+msgstr "Somos una agencia de marketing con experiencia"
+
+#: patterns/main-banner.php:14
+msgid "Agency"
+msgstr "Agencia"
+
+#: patterns/main-banner.php:23
+msgid "READ MORE"
+msgstr "LEER MÁS"
+
+#: patterns/main-header.php
+msgctxt "Pattern title"
+msgid "Main Header"
+msgstr "Encabezado principal"
+
+#: patterns/main-header.php:13
+msgid "Finding the best marketing solution for you business"
+msgstr "Encontrando la mejor solución de marketing para tu negocio"
+
+#: patterns/main-header.php:51
+msgid "CALL US"
+msgstr "LLÁMANOS"
+
+#: patterns/main-header.php:55
+msgid "+1 123 456 7890"
+msgstr "+1 123 456 7890"
+
+#: patterns/post-header-with-background.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr "Encabezado de Publicación con Fondo"
+
+#: patterns/recent-blog.php
+msgctxt "Pattern title"
+msgid "Recent Blog"
+msgstr "Blog Reciente"
+
+#: patterns/search-header.php
+msgctxt "Pattern title"
+msgid "Search header"
+msgstr "Encabezado de Búsqueda"
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr "Servicios"
+
+#: patterns/services.php:10
+msgid "RECENT PROJECT"
+msgstr "Proyecto reciente"
+
+#: patterns/services.php:14
+msgid "WORK SHOWCASE"
+msgstr "Exhibición de trabajos"
+
+#: patterns/services.php:27
+msgid "APPS"
+msgstr "APPS"
+
+#: patterns/services.php:31
+msgid "DESKTOP MOCKUP"
+msgstr "Mocap de escritorio"
+
+#: patterns/services.php:55
+msgid "SEO"
+msgstr "SEO"
+
+#: patterns/services.php:59
+msgid "MARKET ANALYTICS"
+msgstr "Análisis de mercado"
+
+#: patterns/services.php:83
+msgid "PRODUCT REACH"
+msgstr "Alcance del producto"
+
+#: patterns/services.php:87
+msgid "SALES AND SERVICES"
+msgstr "Ventas y servicios"
+
+#: patterns/services.php:111
+msgid "ONLINE PRESENCE"
+msgstr "Presencia en línea"
+
+#: patterns/services.php:115
+msgid "WEBSITE DESIGN"
+msgstr "Diseño de páginas web"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: patterns/sidebar.php:10
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/sidebar.php:18
+msgid "About"
+msgstr "Acerca de"
+
+#: patterns/sidebar.php:22
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, "
+"when an unknown prmontserrat took a galley of type and scrambled it to make "
+"a type specimen book."
+msgstr ""
+"Lorem Ipsum ha sido el texto de marcador de posición estándar de la industria desde el siglo XVI, "
+"cuando un impresor desconocido tomó una galera de tipos y la desordenó para hacer "
+"un libro de muestras tipográficas."
+
+#: patterns/sidebar.php:26
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, "
+"when an unknown prmontserrat took a galley of type and scrambled it to make "
+"a type specimen book. It has survived not only five centuries, but also the "
+"leap into electronic typesetting, remaining essentially unchanged."
+msgstr ""
+"Lorem Ipsum ha sido el texto de marcador de posición estándar de la industria desde el siglo XVI, "
+"cuando un impresor desconocido tomó una galera de tipos y la desordenó para hacer "
+"un libro de muestras tipográficas. Ha sobrevivido no solo cinco siglos, sino también el "
+"salto a la composición tipográfica electrónica, permaneciendo esencialmente inalterado."
+
+#: patterns/sidebar.php:32
+msgid "Archive"
+msgstr "Archivo"
+
+#: patterns/sidebar.php:40
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/sidebar.php:48
+msgid "Recent Posts"
+msgstr "Publicaciones Recientes"
+
+#: patterns/sidebar.php:56
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/sidebar.php:64
+msgid "Social Icons"
+msgstr "Íconos Sociales"
+
+#: patterns/sidebar.php:82
+msgid "Gallery"
+msgstr "Galería"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Azul"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primario"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Primary Light"
+msgstr "Primario Claro"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Primary Fade"
+msgstr "Primario Desvanecido"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr "Encabezado"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Texto del Cuerpo"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Tertiary Text Color"
+msgstr "Color de Texto Terciario"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Tertiary Bg Color"
+msgstr "Color de Fondo Terciario"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr "Color del Borde"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer Plano"
+
+#: styles/blue.json styles/cherry.json styles/dark.json styles/green.json
+#: styles/yellow.json theme.json
+msgctxt "Color name"
+msgid "Top Bg"
+msgstr "Fondo Superior"
+
+#: styles/cherry.json
+msgctxt "Style variation name"
+msgid "Cherry"
+msgstr "Cereza"
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr "Oscuro"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Verde"
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Sans"
+msgstr "Noto Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Grape Nuts"
+msgstr "Grape Nuts"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lemon"
+msgstr "Lemon"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediano"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr "Encabezado Superior"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Encabezado de Contenido"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Site Title"
+msgstr Título del Sitio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Post Title"
+msgstr "Título de la Publicación"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Extra Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Semi Huge"
+msgstr "Semi Gigante"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr "Gigante (Visualización)"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Primer Plano y Fondo"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Heading"
+msgstr "Primario y Encabezado"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical foreground to background"
+msgstr "Primer plano vertical a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to foreground"
+msgstr "Fondo vertical a primer plano"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr "Diagonal primario a primer plano"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to background"
+msgstr "Diagonal primario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr "Diagonal primario a encabezado"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Encabezado"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Main Header"
+msgstr "Encabezado Principal"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de Página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Columns"
+msgstr "Columnas del Pie de Página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr "Contenido de la Publicación"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr "Contenido de la Página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En Blanco"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr "Publicación Única (Barra Lateral a la Derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr "Publicación Única (Barra Lateral a la Izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Sidebar)"
+msgstr "Publicación Única (Sin Barra Lateral)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Página Única (Barra Lateral a la Derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr "Página Única (Barra Lateral a la Izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr "Página (Sin Título / Imagen Destacada)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Right Sidebar)"
+msgstr "Página de Blog (Barra Lateral Derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Left Sidebar)"
+msgstr "Página de Blog (Barra Lateral Izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (No Sidebar)"
+msgstr "Página de Blog (Sin Barra Lateral)"
